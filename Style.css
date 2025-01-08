@@ -326,4 +326,14 @@ header .link .account {
   header .link .center_link {
     width: 75%;
   }
+  .img-size{
+    width: 50vw !important;
+    height: 30vh !important;
+  }
+}
+
+
+.img-size{
+  width: 20vw;
+  height: 50vh;
 }
